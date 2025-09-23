@@ -1,4 +1,4 @@
-#Data Warehouse and Analytics project
+# Data Warehouse and Analytics project
 
 This is part of a guided project demonstrating a comprehensive data warehousing and analytics solution, from ingesting data from data sources to deriving actionable insights.
 
